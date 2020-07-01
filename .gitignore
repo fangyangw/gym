@@ -1,0 +1,12 @@
+.DS_Store
+wechat-pay/
+wechat-pay.zip
+
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
